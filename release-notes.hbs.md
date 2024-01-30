@@ -125,6 +125,10 @@ This release includes the following changes, listed by component and area.
 
 - Updates reconciler-runtime to v0.15.1.
 
+#### <a id='1-8-0-scst-store-ri'></a> v1.8.0 Features: Supply Chain Security Tools - Store
+
+- Adds support for ingesting SBOMs in CycloneDX 1.5 format.
+
 ---
 
 ### <a id='1-8-0-breaking-changes'></a> v1.8.0 Breaking changes
